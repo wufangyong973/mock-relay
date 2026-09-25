@@ -3,8 +3,11 @@
 .pytest_cache/
 *.egg-info/
 dist/
+temp_auto_push.bat
 build/
 fixtures/
 *.log
 .venv/
 venv/
+.gitignore
+branch_structure.json
